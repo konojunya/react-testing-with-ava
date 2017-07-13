@@ -1,4 +1,7 @@
-# react-testing
+# React Testing with ava
+
+![](https://raw.githubusercontent.com/avajs/ava/master/media/header.png)
+
 React component test code
 
 # use
