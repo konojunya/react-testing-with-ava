@@ -11,6 +11,12 @@ $ npm install
 $ npm test
 ```
 
+## develop
+
+```
+$ npm start
+```
+
 # screen shot
 
 ![](https://raw.githubusercontent.com/konojunya/react-testing/master/screenshots/testing.png)
@@ -39,6 +45,8 @@ export default class App extends React.Component {
 - rendered h1 element
 - render hello world
 - has a .title class name
+
+---
 
 - まずavaが使える状態であるか
 - h1要素でレンダリングされているか
